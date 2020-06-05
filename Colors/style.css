@@ -1,0 +1,34 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+
+}
+
+.biru-muda {
+    background-color: lightblue;
+}
+
+.kotak-merah {
+    background-color: red;
+    width: 25px;
+    height: 25px;
+    margin: 20px auto;
+}
+
+.kotak-biru {
+    background-color: blue;
+    width: 25px;
+    height: 25px;
+    margin: 20px auto;
+}
+
+.kotak-hijau {
+    background-color: green;
+    width: 25px;
+    height: 25px;
+    margin: 20px auto;
+}
